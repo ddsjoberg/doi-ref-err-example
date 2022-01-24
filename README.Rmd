@@ -1,0 +1,28 @@
+---
+output: github_document
+bibliography: references.bib
+---
+
+## Testing complex DOI citekey
+
+This reference does not work [@10.1016/s0140-6736(95)90120-5], but this reference does work [@thisWorks].
+
+System Info
+
+```{r, echo = TRUE}
+Sys.info()
+```
+
+Session Info
+
+```{r, echo = TRUE}
+sessionInfo()
+```
+
+RStudio Info
+
+```{r, echo = TRUE}
+rstudioapi::versionInfo()
+```
+
+## References
