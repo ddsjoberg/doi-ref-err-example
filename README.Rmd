@@ -5,7 +5,7 @@ bibliography: references.bib
 
 ## Testing complex DOI citekey
 
-This reference does not work [@10.1016/s0140-6736(95)90120-5], but this reference does work [@thisWorks].
+This reference does not work using the DOI citekey [@10.1016/s0140-6736(95)90120-5], but this reference does work that uses a plain-text citekey [@thisWorks].
 
 System Info
 

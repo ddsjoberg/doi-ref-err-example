@@ -1,8 +1,9 @@
 
 ## Testing complex DOI citekey
 
-This reference does not work (**10.1016/s0140-6736?**), but this
-reference does work (Rothwell 1995).
+This reference does not work using the DOI citekey
+(**10.1016/s0140-6736?**), but this reference does work that uses a
+plain-text citekey (Rothwell 1995).
 
 System Info
 
